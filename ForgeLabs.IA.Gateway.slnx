@@ -1,0 +1,30 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/">
+    <Project Path="src/API/ForgeLabs.IA.Gateway.API/ForgeLabs.IA.Gateway.API.csproj" />
+  </Folder>
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Application/ForgeLabs.IA.Gateway.BuildingBlocks.Application.csproj" />
+    <Project Path="src/BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Domain/ForgeLabs.IA.Gateway.BuildingBlocks.Domain.csproj" />
+    <Project Path="src/BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Infrastructure/ForgeLabs.IA.Gateway.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Inference/">
+    <Project Path="src/Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Application/ForgeLabs.IA.Gateway.Modules.Inference.Application.csproj" />
+    <Project Path="src/Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Contracts/ForgeLabs.IA.Gateway.Modules.Inference.Contracts.csproj" />
+    <Project Path="src/Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Domain/ForgeLabs.IA.Gateway.Modules.Inference.Domain.csproj" />
+    <Project Path="src/Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Infrastructure/ForgeLabs.IA.Gateway.Modules.Inference.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Metrics/">
+    <Project Path="src/Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Application/ForgeLabs.IA.Gateway.Modules.Metrics.Application.csproj" />
+    <Project Path="src/Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Contracts/ForgeLabs.IA.Gateway.Modules.Metrics.Contracts.csproj" />
+    <Project Path="src/Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Domain/ForgeLabs.IA.Gateway.Modules.Metrics.Domain.csproj" />
+    <Project Path="src/Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Infrastructure/ForgeLabs.IA.Gateway.Modules.Metrics.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Proxy/">
+    <Project Path="src/Modules/Proxy/ForgeLabs.IA.Gateway.Modules.Proxy.Application/ForgeLabs.IA.Gateway.Modules.Proxy.Application.csproj" />
+    <Project Path="src/Modules/Proxy/ForgeLabs.IA.Gateway.Modules.Proxy.Contracts/ForgeLabs.IA.Gateway.Modules.Proxy.Contracts.csproj" />
+    <Project Path="src/Modules/Proxy/ForgeLabs.IA.Gateway.Modules.Proxy.Domain/ForgeLabs.IA.Gateway.Modules.Proxy.Domain.csproj" />
+    <Project Path="src/Modules/Proxy/ForgeLabs.IA.Gateway.Modules.Proxy.Infrastucture/ForgeLabs.IA.Gateway.Modules.Proxy.Infrastucture.csproj" />
+  </Folder>
+</Solution>

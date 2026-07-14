@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForgeLabs.IA.Gateway.Modules.Metrics.Application\ForgeLabs.IA.Gateway.Modules.Metrics.Application.csproj" />
+    <ProjectReference Include="..\ForgeLabs.IA.Gateway.Modules.Metrics.Domain\ForgeLabs.IA.Gateway.Modules.Metrics.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
