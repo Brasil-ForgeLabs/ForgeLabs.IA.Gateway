@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="API/ForgeLabs.IA.Gateway.API/ForgeLabs.IA.Gateway.API.csproj" />
+  </Folder>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Application/ForgeLabs.IA.Gateway.BuildingBlocks.Application.csproj" />
+    <Project Path="BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Domain/ForgeLabs.IA.Gateway.BuildingBlocks.Domain.csproj" />
+    <Project Path="BuildingBlocks/ForgeLabs.IA.Gateway.BuildingBlocks.Infrastructure/ForgeLabs.IA.Gateway.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/Inference/">
+    <Project Path="Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Application/ForgeLabs.IA.Gateway.Modules.Inference.Application.csproj" />
+    <Project Path="Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Contracts/ForgeLabs.IA.Gateway.Modules.Inference.Contracts.csproj" />
+    <Project Path="Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Domain/ForgeLabs.IA.Gateway.Modules.Inference.Domain.csproj" />
+    <Project Path="Modules/Inference/ForgeLabs.IA.Gateway.Modules.Inference.Infrastructure/ForgeLabs.IA.Gateway.Modules.Inference.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Modules/Metrics/">
+    <Project Path="Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Application/ForgeLabs.IA.Gateway.Modules.Metrics.Application.csproj" />
+    <Project Path="Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Contracts/ForgeLabs.IA.Gateway.Modules.Metrics.Contracts.csproj" />
+    <Project Path="Modules/Metrics/ForgeLabs.IA.Gateway.Modules.Metrics.Domain/ForgeLabs.IA.Gateway.Modules.Metrics.Domain.csproj" />
+  </Folder>
+</Solution>
